@@ -167,7 +167,7 @@
         }
     ],
     "updateInfo": {
-        "latestVersion": 1,
+        "latestVersion": 2,
         "updateUrl": "https://www.dropbox.com/scl/fi/1gm8ffeowmr113uf1q02e/app-debug-v1.1.apk?rlkey=o9ibi88prin6ek0ynwx52445i&st=szxkbypw&dl=1",
         "forceUpdate": true,
         "updateMessage": "A new version is available with important compatibility updates. Please update to continue using the app."
