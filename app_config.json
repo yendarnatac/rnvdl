@@ -165,7 +165,7 @@
         "updateMessage": "A new version is available with important compatibility updates. Please update to continue using the app."
     },
     "donateBanner": {
-        "description": "RNVDL exists because of users like you. I keep it free and ad-free to protect your privacy and security. If you find value in it, a small donation can help sustain the app and keep it running for everyone. \n\n Thank you for your support!",
+        "description": "RNVDL exists because of users like you. I keep it free and ad-free to protect your privacy and security. If you find value in it, a small donation can help sustain the app and keep it running for everyone. Thank you for your support!",
         "buttonUrl": "your_donation_url_here",
         "imageUrl": "your_donate_banner_image_url_here"
     },
