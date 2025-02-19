@@ -134,12 +134,14 @@
             ]
         }
     ],
-    "bannerImages": [
-        "https://i.imgur.com/qwfFSBg.jpg",
-        "https://i.imgur.com/ADTgdRK.jpg",
-        "https://i.imgur.com/gFCw7oy.jpg",
-        "https://i.imgur.com/X0Hfdsl.jpg"
-    ],
+    "reportBanner": {
+        "imageUrl": "https://i.imgur.com/ezABcXV.png",
+        "contactEmail": "radneyvous@gmail.com"
+    },
+    "donateBanner": {
+        "imageUrl": "https://i.imgur.com/6hRdtk2.png",
+        "link": "https://www.radneyvous.com/rnvdldonate"
+    },
     "mobileBannerSlides": [
         {
             "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
@@ -163,15 +165,5 @@
         "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=9f01uouh&dl=1",
         "forceUpdate": true,
         "updateMessage": "A new version is available with important compatibility updates. Please update to continue using the app."
-    },
-    "donateBanner": {
-        "description": "RNVDL exists because of users like you. I keep it free and ad-free to protect your privacy and security. If you find value in it, a small donation can help sustain the app and keep it running for everyone. Thank you for your support!",
-        "buttonUrl": "your_donation_url_here",
-        "imageUrl": "your_donate_banner_image_url_here"
-    },
-    "reportBanner": {
-        "description": "Found a bug or have a suggestion? Your feedback helps make RNVDL better for everyone. Report any issues or share your ideas to help improve the app experience. \n\n Thank you for helping make RNVDL better!",
-        "buttonUrl": "your_report_form_url_here",
-        "imageUrl": "your_report_banner_image_url_here"
     }
 }
