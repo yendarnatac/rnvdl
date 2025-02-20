@@ -19,7 +19,7 @@
                     "name": "Plex",
                     "downloadUrl": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1",
                     "imageUrl": "https://i.imgur.com/26GjPE6.jpg",
-                    "description": "Kodi media center is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs (Home theater PCs). It uses a 10-foot user interface designed to be a media player for the living-room, using a remote control as the primary input device. Its graphical user interface (GUI) allows the user to easily browse and view videos, photos, podcasts, and music from a harddrive, optical disc, local network, and the internet using only a few button",
+                    "description": "",
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
@@ -31,7 +31,7 @@
                     "name": "MX Player",
                     "downloadUrl": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1",
                     "imageUrl": "https://i.imgur.com/2veR9VM.jpg",
-                    "description": "Kodi media center is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs (Home theater PCs). It uses a 10-foot user interface designed to be a media player for the living-room, using a remote control as the primary input device. Its graphical user interface (GUI) allows the user to easily browse and view videos, photos, podcasts, and music from a harddrive, optical disc, local network, and the internet using only a few button",
+                    "description": "",
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
@@ -43,7 +43,7 @@
                     "name": "VLC",
                     "downloadUrl": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1",
                     "imageUrl": "https://i.imgur.com/qHnIt1y.jpg",
-                    "description": "Kodi media center is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs (Home theater PCs). It uses a 10-foot user interface designed to be a media player for the living-room, using a remote control as the primary input device. Its graphical user interface (GUI) allows the user to easily browse and view videos, photos, podcasts, and music from a harddrive, optical disc, local network, and the internet using only a few button",
+                    "description": "",
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
@@ -58,17 +58,17 @@
             "apps": [
                 {
                     "name": "Cinema HD",
-                    "description": "Movies and TV shows",
+                    "description": "",
                     "downloadUrl": "https://cinemaapk.com/download/cinema-hd-v2.apk"
                 },
                 {
                     "name": "CyberFlix TV",
-                    "description": "Latest Movies & Shows",
+                    "description": "",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "BeeTV",
-                    "description": "HD Streaming",
+                    "description": "",
                     "downloadUrl": "https://beetvapk.me/download/beetv.apk"
                 }
             ]
@@ -78,37 +78,37 @@
             "apps": [
                 {
                     "name": "ES File Explorer",
-                    "description": "Easily manages, shares all your local android and cloud files",
+                    "description": "",
                     "downloadUrl": "https://cinemaapk.com/download/cinema-hd-v2.apk"
                 },
                 {
                     "name": "Mouse Toggle for TV",
-                    "description": "Mouse Toggle for Android TV is a utility application that allows users to control their Android TV interface using a mouse-like pointer.",
+                    "description": ".",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "Send Files to TV",
-                    "description": "It allows you to fastly and easily share movies, tv show or ANY files between these devices through your local network. No Internet required.",
+                    "description": "",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "Analiti",
-                    "description": "WiFi Analyzer, Speed Tester & Connectivity Validator. Trusted by wireless networking & IT pros. “The best tool is the one you always have with you!”",
+                    "description": "",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "Clean Shark",
-                    "description": "Ultimate App Cleaner",
+                    "description": "",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "Downloader by AFTVnews",
-                    "description": "Download files to your firestick",
+                    "description": "",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
                     "name": "AirPlay",
-                    "description": "HD Streaming",
+                    "description": "",
                     "downloadUrl": "https://beetvapk.me/download/beetv.apk"
                 }
             ]
@@ -118,17 +118,17 @@
             "apps": [
                 {
                     "name": "VLC Player",
-                    "description": "Best media player",
+                    "description": "",
                     "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk"
                 },
                 {
                     "name": "MX Player Pro",
-                    "description": "Advanced video player",
+                    "description": "",
                     "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
                 },
                 {
                     "name": "Kodi",
-                    "description": "Media center",
+                    "description": "",
                     "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
                 }
             ]
