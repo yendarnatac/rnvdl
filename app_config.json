@@ -166,11 +166,5 @@
             "imageUrl": "https://i.imgur.com/NOniz3o.jpg",
             "link": "https://affiliate.ipvanish.com/SH7Y"
         }
-    ],
-    "updateInfo": {
-        "latestVersion": 1,
-        "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=9f01uouh&dl=1",
-        "forceUpdate": true,
-        "updateMessage": "A new version is available with important compatibility updates. Please update to continue using the app."
-    }
+    ]
 }
