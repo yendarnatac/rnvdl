@@ -135,6 +135,12 @@
             ]
         }
     ],
+    "bannerImages": [
+        "https://i.imgur.com/qwfFSBg.jpg",
+        "https://i.imgur.com/ADTgdRK.jpg",
+        "https://i.imgur.com/gFCw7oy.jpg",
+        "https://i.imgur.com/X0Hfdsl.jpg"
+    ],
     "reportBanner": {
         "imageUrl": "https://i.imgur.com/qwmPjqj.png",
         "contactEmail": "radneyvous@gmail.com"
