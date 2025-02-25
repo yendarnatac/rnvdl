@@ -142,5 +142,23 @@
     "donateBanner": {
         "imageUrl": "https://i.imgur.com/6hRdtk2.png",
         "link": "https://www.radneyvous.com/rnvdldonate"
-    }
+    },
+    "mobileBannerSlides": [
+        {
+            "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
+            "link": "https://go.nordvpn.net/SH8iN"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/62IxKXo.jpg",
+            "link": "https://www.radneyvous.com/rnvdldonate"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
+            "link": "https://affiliate.ipvanish.com/SH7Y"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/NOniz3o.jpg",
+            "link": "https://affiliate.ipvanish.com/SH7Y"
+        }
+    ]
 }
