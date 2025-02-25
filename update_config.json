@@ -1,5 +1,5 @@
 {
-    "latestVersion": 2,
+    "latestVersion": 1,
     "updateUrl": "https://example.com/latest.apk",
     "forceUpdate": true,
     "updateMessage": "New version available with important fixes"
