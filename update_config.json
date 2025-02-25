@@ -1,8 +1,6 @@
 {
-  "updateInfo": {
     "latestVersion": 2,
     "updateUrl": "https://example.com/latest.apk",
     "forceUpdate": true,
     "updateMessage": "New version available with important fixes"
-  }
 }
