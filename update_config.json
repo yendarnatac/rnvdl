@@ -31,7 +31,7 @@
         "https://i.imgur.com/gFCw7oy.jpg",
         "https://i.imgur.com/X0Hfdsl.jpg"
     ],
-    "latestVersion": 1,
+    "latestVersion": 2,
     "updateUrl": "https://example.com/latest.apk",
     "forceUpdate": true,
     "updateMessage": "New version available with important fixes"
