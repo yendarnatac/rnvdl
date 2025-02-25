@@ -1,4 +1,18 @@
 {
+    "updateInfo": {
+        "latestVersion": 2,
+        "updateUrl": "https://example.com/latest.apk",
+        "forceUpdate": true,
+        "updateMessage": "New version available with important fixes"
+    },
+    "reportBanner": {
+        "imageUrl": "https://example.com/report_banner.jpg",
+        "contactEmail": "support@example.com"
+    },
+    "donateBanner": {
+        "imageUrl": "https://example.com/donate_banner.jpg",
+        "link": "https://example.com/donate"
+    },
     "mobileBannerSlides": [
         {
             "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
