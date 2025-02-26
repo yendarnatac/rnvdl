@@ -35,18 +35,18 @@
         "latestVersion": 1,
         "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=fdexhwdp&dl=1",
         "forceUpdate": true,
-        "updateMessage": "Critical update required. Please update to continue.",
-        "repositoryCodes": [
-            {
-                "code": "1111",
-                "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/app_config.json",
-                "name": "Default Repository"
-            },
-            {
-                "code": "2222",
-                "repositoryUrl": "https://raw.githubusercontent.com/other/repo/main/app_config.json",
-                "name": "Special Repository"
-            }
-        ]
-    }
+        "updateMessage": "Critical update required. Please update to continue."
+    },
+    "repositoryCodes": [
+        {
+            "code": "1111",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/app_config.json",
+            "name": "Default Repository"
+        },
+        {
+            "code": "2222",
+            "repositoryUrl": "https://raw.githubusercontent.com/other/repo/main/app_config.json",
+            "name": "Special Repository"
+        }
+    ]
 }
