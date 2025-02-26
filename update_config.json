@@ -31,8 +31,10 @@
         "https://i.imgur.com/gFCw7oy.jpg",
         "https://i.imgur.com/X0Hfdsl.jpg"
     ],
-    "latestVersion": 2,
-    "updateUrl": "https://example.com/latest.apk",
-    "forceUpdate": true,
-    "updateMessage": "New version available with important fixes"
+    "updateInfo": {
+        "latestVersion": 2,
+        "updateUrl": "your_update_url",
+        "forceUpdate": true,
+        "updateMessage": "Critical update required. Please update to continue."
+    }
 }
