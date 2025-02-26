@@ -1,10 +1,10 @@
 {
     "reportBanner": {
-        "imageUrl": "https://example.com/report_banner.jpg",
+        "imageUrl": "https://i.imgur.com/qwmPjqj.png",
         "contactEmail": "support@example.com"
     },
     "donateBanner": {
-        "imageUrl": "https://example.com/donate_banner.jpg",
+        "imageUrl": "https://i.imgur.com/6hRdtk2.png",
         "link": "https://example.com/donate"
     },
     "mobileBannerSlides": [
