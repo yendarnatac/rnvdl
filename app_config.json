@@ -5,18 +5,11 @@
             "apps": [
                 {
                     "name": "Kodi",
-                    "description": "",
+                    "downloadUrl": "https://cinema-hd.app/cinemahd-341-stable.apk",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "buttons": [
-                        {
-                            "label": "Watch Tutorial",
-                            "url": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1"
-                        },
-                        {
-                            "label": "Get VPN",
-                            "url": "https://example.com/vpn"
-                        }
-                    ],
+                    "description": "",
+                    "vpnUrl": "https://go.nordvpn.net/SH8iN",
+                    "signupUrl": "",
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
