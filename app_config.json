@@ -8,8 +8,6 @@
                     "downloadUrl": "https://cinema-hd.app/cinemahd-341-stable.apk",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
-                    "vpnUrl": "https://go.nordvpn.net/SH8iN",
-                    "signupUrl": "",
                     "buttons": [
                         {
                             "label": "Get VPN",
@@ -24,39 +22,54 @@
                 },
                 {
                     "name": "Plexs",
-                    "downloadUrl": "https://filesamples.com/samples/video/mov/sample_3840x2160.mov",
-                    "imageUrl": "https://i.imgur.com/26GjPE6.jpg",
+                    "downloadUrl": "https://cinema-hd.app/cinemahd-341-stable.apk",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
+                    "buttons": [
+                        {
+                            "label": "Get VPN",
+                            "url": "https://go.nordvpn.net/SH8iN"
+                        }
+                    ],
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ],
-                    "signupUrl": "https://example.com/signup"
+                    ]
                 },
                 {
                     "name": "MX Player",
-                    "downloadUrl": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1",
-                    "imageUrl": "https://i.imgur.com/2veR9VM.jpg",
+                    "downloadUrl": "https://cinema-hd.app/cinemahd-341-stable.apk",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
+                    "buttons": [
+                        {
+                            "label": "Get VPN",
+                            "url": "https://go.nordvpn.net/SH8iN"
+                        }
+                    ],
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ],
-                    "signupUrl": "https://example.com/signup"
+                    ]
                 },
                 {
                     "name": "VLC",
-                    "downloadUrl": "https://www.dropbox.com/scl/fi/9i7coltdbjah3vmf1o7me/soplay.apk?rlkey=d1yla1ry9x05hqj8jmt79kzo9&st=ez78jlqq&dl=1",
-                    "imageUrl": "https://i.imgur.com/qHnIt1y.jpg",
+                    "downloadUrl": "https://cinema-hd.app/cinemahd-341-stable.apk",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
+                    "buttons": [
+                        {
+                            "label": "Get VPN",
+                            "url": "https://go.nordvpn.net/SH8iN"
+                        }
+                    ],
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ],
-                    "signupUrl": ""
+                    ]
                 }
             ]
         },
