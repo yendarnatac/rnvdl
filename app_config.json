@@ -10,6 +10,12 @@
                     "description": "",
                     "vpnUrl": "https://go.nordvpn.net/SH8iN",
                     "signupUrl": "",
+                    "buttons": [
+                        {
+                            "label": "Website",
+                            "url": "https://example.com"
+                        }
+                    ],
                     "screenshots": [
                         "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                         "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
