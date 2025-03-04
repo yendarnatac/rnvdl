@@ -5,7 +5,12 @@
             "apps": [
                 {
                     "name": "Kodi",
-                    "downloadUrl": "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=puw94362&dl=1",
+                    "downloadUrl": "https://primary-cdn.example.com/app.apk",
+                    "downloadUrls": [
+                        "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=puw94362&dl=1",
+                        "https://backup-cdn.example.com/app.apk",
+                        "https://mirror.example.com/app.apk"
+                    ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "Media Library app",
                     "buttons": [
