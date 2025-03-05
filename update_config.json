@@ -48,5 +48,8 @@
             "repositoryUrl": "https://raw.githubusercontent.com/other/repo/main/app_config.json",
             "name": "Special Repository"
         }
-    ]
+    ],
+    "fallbackDescription": "\n🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
+    "fallbackDescriptionTV": "\n🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
+    "fallbackDescriptionMobile": "\n🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn."
 }
