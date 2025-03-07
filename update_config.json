@@ -1,10 +1,10 @@
 {
     "reportBanner": {
-        "imageUrl": "https://i.imgur.com/qwmPjqj.png",
+        "imageUrl": "https://i.imgur.com/IKkzit6.jpg",
         "contactEmail": "radneyvous@gmail.com"
     },
     "donateBanner": {
-        "imageUrl": "https://i.imgur.com/6hRdtk2.png",
+        "imageUrl": "https://i.imgur.com/gh1vAm2.jpg",
         "link": "https://www.radneyvous.com/rnvdldonate"
     },
     "mobileBannerSlides": [
@@ -13,23 +13,17 @@
             "link": "https://go.nordvpn.net/SH8iN"
         },
         {
-            "imageUrl": "https://i.imgur.com/62IxKXo.jpg",
-            "link": "https://www.radneyvous.com/rnvdldonate"
-        },
-        {
             "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
             "link": "https://affiliate.ipvanish.com/SH7Y"
         },
         {
-            "imageUrl": "https://i.imgur.com/NOniz3o.jpg",
-            "link": "https://affiliate.ipvanish.com/SH7Y"
+            "imageUrl": "https://i.imgur.com/GbVKBln.png",
+            "link": ""
         }
     ],
     "bannerImages": [
-        "https://i.imgur.com/qwfFSBg.jpg",
-        "https://i.imgur.com/ADTgdRK.jpg",
-        "https://i.imgur.com/gFCw7oy.jpg",
-        "https://i.imgur.com/X0Hfdsl.jpg"
+        "https://i.imgur.com/A081RST.jpg",
+        "https://i.imgur.com/L0MvDMs.jpg"
     ],
     "updateInfo": {
         "latestVersion": 1,
