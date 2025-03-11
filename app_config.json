@@ -78,13 +78,7 @@
             ],
             "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
             "description": "",
-            "category": "",
-            "buttonUrls": [
-                {
-                    "label": "Get VPN",
-                    "url": "https://go.nordvpn.net/SH8iN"
-                }
-            ],
+            "category": "Category 4",
             "screenshots": [
                 "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
                 "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
