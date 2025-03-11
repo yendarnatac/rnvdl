@@ -97,9 +97,9 @@
             "title": "Streaming Apps",
             "apps": [
                 {
-                    "name": "Cinema HDX",
-                    "description": "https://www.google.com/",
-                    ""
+                    "name": "CyberFlix TV",
+                    "description": "",
+                    "downloadUrl": ""
                 },
                 {
                     "name": "CyberFlix TV",
