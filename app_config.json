@@ -105,7 +105,7 @@
                     "category": "Category 5",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "downloadUrls": [
-                        "https://backup.com/app.apk"
+                        "https://example.com/app.apk"
                     ]
                 }
             ]
