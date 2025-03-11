@@ -1,113 +1,103 @@
 {
-    "categories": [
+    "apps": [
         {
-            "title": "Media Players",
-            "apps": [
+            "name": "Kodi",
+            "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+            "description": "Media Library app",
+            "category": "Category 1",
+            "downloadUrls": [
+                "https://cinema-hd.app/cinemahd-341-stable.apk",
+                "https://backup.com/app.apk",
+                "https://backup.com/app.apk"
+            ],
+            "buttonUrls": [
                 {
-                    "name": "Kodi",
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "Media Library app",
-                    "category": "Category 1",
-                    "downloadUrls": [
-                        "https://cinema-hd.app/cinemahd-341-stable.apk",
-                        "https://backup.com/app.apk",
-                        "https://backup.com/app.apk"
-                    ],
-                    "buttonUrls": [
-                        {
-                            "label": "Get VPN Nord VPN",
-                            "url": "https://go.nordvpn.net/SH8iN"
-                        },
-                        {
-                            "label": "Get VPN",
-                            "url": "https://go.nordvpn.net/SH8iN"
-                        }
-                    ],
-                    "screenshots": [
-                        "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ]
+                    "label": "Get VPN Nord VPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
                 },
                 {
-                    "name": "Plexs",
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "",
-                    "category": "Category 2",
-                    "downloadUrls": [
-                        "https://backup.com/app.apk",
-                        "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=nrklcq23&dl=1",
-                        "https://backup.com/app.apk"
-                    ],
-                    "buttonUrls": [
-                        {
-                            "label": "Get VPN",
-                            "url": "https://go.nordvpn.net/SH8iN"
-                        }
-                    ],
-                    "screenshots": [
-                        "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ]
-                },
-                {
-                    "name": "MX Player",
-                    "downloadUrls": [
-                        "https://backup.com/app.apk",
-                        "https://backup.com/app.apk",
-                        "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=puw94362&dl=1"
-                    ],
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "",
-                    "category": "Category 3",
-                    "buttonUrls": [
-                        {
-                            "label": "Get VPN",
-                            "url": "https://go.nordvpn.net/SH8iN"
-                        }
-                    ],
-                    "screenshots": [
-                        "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ]
-                },
-                {
-                    "name": "VLC",
-                    "downloadUrls": [
-                        "https://backup.com/app.apk",
-                        "https://backup.com/app.apk"
-                    ],
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "",
-                    "category": "Category 4",
-                    "buttonUrls": [
-                        {
-                            "label": "Get VPN",
-                            "url": "https://go.nordvpn.net/SH8iN"
-                        }
-                    ],
-                    "screenshots": [
-                        "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
-                        "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
-                    ]
+                    "label": "Get VPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
                 }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
             ]
         },
         {
-            "title": "Streaming Apps",
-            "apps": [
+            "name": "Plexs",
+            "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+            "description": "",
+            "category": "Category 2",
+            "downloadUrls": [
+                "https://backup.com/app.apk",
+                "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=nrklcq23&dl=1",
+                "https://backup.com/app.apk"
+            ],
+            "buttonUrls": [
                 {
-                    "name": "Example App",
-                    "description": "",
-                    "category": "Category 5",
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "downloadUrls": [
-                        "https://example.com/app.apk"
-                    ]
+                    "label": "Get VPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
                 }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
+            ]
+        },
+        {
+            "name": "MX Player",
+            "downloadUrls": [
+                "https://backup.com/app.apk",
+                "https://backup.com/app.apk",
+                "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=puw94362&dl=1"
+            ],
+            "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+            "description": "",
+            "category": "Category 3",
+            "buttonUrls": [
+                {
+                    "label": "Get VPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
+                }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
+            ]
+        },
+        {
+            "name": "VLC",
+            "downloadUrls": [
+                "https://backup.com/app.apk",
+                "https://backup.com/app.apk"
+            ],
+            "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+            "description": "",
+            "category": "Category 4",
+            "buttonUrls": [
+                {
+                    "label": "Get VPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
+                }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/QMZhhFGgw0BjVmVJblT4wTTbb7Drw5yPtBwUmI1SW7nzi-L1B8dLKS4ATtBkmIVadQ=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/-iTsEep77CRSCb73pReuTKWzYk-_Qe9rvFwd1UvmZO53e7WAZRVtpUpkQkdY7OjLAhL5=w1052-h592-rw"
+            ]
+        },
+        {
+            "name": "Example App",
+            "description": "",
+            "category": "Category 5",
+            "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+            "downloadUrls": [
+                "https://example.com/app.apk"
             ]
         }
     ]
