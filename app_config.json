@@ -7,8 +7,8 @@
                     "name": "Kodi",
                     "downloadUrls": [
                         "https://cinema-hd.app/cinemahd-341-stable.apk",
-                        "https://backup-cdn.example.com/app.apk",
-                        "https://mirror.example.com/app.apk"
+                        "https://backup.com/app.apk",
+                        "https://backup.com/app.apk"
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "Media Library app",
@@ -31,9 +31,9 @@
                 {
                     "name": "Plexs",
                     "downloadUrls": [
-                        "https://backup-cdn.example.com/app.apk",
+                        "https://backup.com/app.apk",
                         "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=nrklcq23&dl=1",
-                        "https://mirror.example.com/app.apk"
+                        "https://backup.com/app.apk"
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
@@ -52,8 +52,8 @@
                 {
                     "name": "MX Player",
                     "downloadUrls": [
-                        "https://backup-cdn.example.com/app.apk",
-                        "https://mirror.example.com/app.apk",
+                        "https://backup.com/app.apk",
+                        "https://backup.com/app.apk",
                         "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=puw94362&dl=1"
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
@@ -73,9 +73,8 @@
                 {
                     "name": "VLC",
                     "downloadUrls": [
-                        "https://mirror.example.com/app.apk",
-                        "https://backup-cdn.example.com/app.apk",
-                        ""
+                        "https://backup.com/app.apk",
+                        "https://backup.com/app.apk"
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
