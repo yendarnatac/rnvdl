@@ -12,7 +12,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "Media Library app",
-                    "buttons": [
+                    "buttonUrls": [
                         {
                             "label": "Get VPN Nord VPN",
                             "url": "https://go.nordvpn.net/SH8iN"
@@ -37,7 +37,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
-                    "buttons": [
+                    "buttonUrls": [
                         {
                             "label": "Get VPN",
                             "url": "https://go.nordvpn.net/SH8iN"
@@ -58,7 +58,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
-                    "buttons": [
+                    "buttonUrls": [
                         {
                             "label": "Get VPN",
                             "url": "https://go.nordvpn.net/SH8iN"
@@ -78,7 +78,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
-                    "buttons": [
+                    "buttonUrls": [
                         {
                             "label": "Get VPN",
                             "url": "https://go.nordvpn.net/SH8iN"
