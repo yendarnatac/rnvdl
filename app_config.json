@@ -5,13 +5,14 @@
             "apps": [
                 {
                     "name": "Kodi",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+                    "description": "Media Library app",
+                    "category": "Category 1",
                     "downloadUrls": [
                         "https://cinema-hd.app/cinemahd-341-stable.apk",
                         "https://backup.com/app.apk",
                         "https://backup.com/app.apk"
                     ],
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "Media Library app",
                     "buttonUrls": [
                         {
                             "label": "Get VPN Nord VPN",
@@ -30,13 +31,14 @@
                 },
                 {
                     "name": "Plexs",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
+                    "description": "",
+                    "category": "Category 2",
                     "downloadUrls": [
                         "https://backup.com/app.apk",
                         "https://www.dropbox.com/scl/fi/dhlbad9v7fbv1yjpnvl7q/app-debug.apk?rlkey=q5upx7iynmvvio40957wgexfy&st=nrklcq23&dl=1",
                         "https://backup.com/app.apk"
                     ],
-                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "description": "",
                     "buttonUrls": [
                         {
                             "label": "Get VPN",
@@ -58,6 +60,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
+                    "category": "Category 3",
                     "buttonUrls": [
                         {
                             "label": "Get VPN",
@@ -78,6 +81,7 @@
                     ],
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "description": "",
+                    "category": "Category 4",
                     "buttonUrls": [
                         {
                             "label": "Get VPN",
@@ -98,6 +102,7 @@
                 {
                     "name": "Example App",
                     "description": "",
+                    "category": "Category 5",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "downloadUrls": [
                         "https://backup.com/app.apk"
