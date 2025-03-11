@@ -99,7 +99,7 @@
                 {
                     "name": "Example App",
                     "description": "",
-                    "downloadUrl": "https:mirror.//example.com/app.apk",
+                    "downloadUrls": "https:mirror.//example.com/app.apk",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg"
                 },
                 {
