@@ -99,7 +99,9 @@
                     "name": "Example App",
                     "description": "",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
-                    "downloadUrls": ""
+                    "downloadUrls": [
+                        "https://backup.com/app.apk"
+                    ]
                 },
                 {
                     "name": "CyberFlix TV",
