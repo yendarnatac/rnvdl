@@ -101,7 +101,7 @@
                     "description": "",
                     "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
                     "downloadUrls": [
-                        "https:mirror.//example.com/app.apk"
+                        "example.com/app.apk"
                     ]
                 },
                 {
