@@ -97,9 +97,9 @@
             "title": "Streaming Apps",
             "apps": [
                 {
-                    "name": "Cinema HD",
+                    "name": "Cinema HDX",
                     "description": "",
-                    "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+                    ""
                 },
                 {
                     "name": "CyberFlix TV",
