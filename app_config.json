@@ -97,7 +97,7 @@
             "title": "Streaming Apps",
             "apps": [
                 {
-                    "name": "CyberFlix TV",
+                    "name": "Example App",
                     "description": "",
                     "downloadUrl": "https://example.com/app.apk"
                 },
