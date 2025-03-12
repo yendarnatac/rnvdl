@@ -43,7 +43,7 @@
         },
         {
             "code": "2222",
-            "repositoryUrl": "https://raw.githubusercontent.com/other/repo/main/app_config.json",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/rnvdl.json",
             "name": "Special Repository"
         }
     ],
@@ -52,7 +52,7 @@
     "fallbackDescriptionMobile": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n\n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n👇 Or tap on the button below ",
     "fallbackButtons": [
         {
-            "label": "Get VPNX",
+            "label": "Get VPN",
             "url": "go.nordvpn.net/SH8iN"
         }
     ]
