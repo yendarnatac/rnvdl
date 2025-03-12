@@ -1,4 +1,5 @@
 {
+    "defaultVpnQr": "https://i.imgur.com/mZBg0Pb.png",
     "reportBanner": {
         "imageUrl": "https://i.imgur.com/r9qiyWW.png",
         "contactEmail": "radneyvous@gmail.com"
@@ -47,7 +48,6 @@
             "name": "Special Repository"
         }
     ],
-    "defaulVpnQr": "https://i.imgur.com/mZBg0Pb.png",
     "fallbackDescription": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
     "fallbackDescription2": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n\n🔍 Press the button or scan QR on your phone ➜",
     "fallbackDescriptionMobile": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n\n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n👇 Or tap on the button below ",
