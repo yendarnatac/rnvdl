@@ -1,60 +1,60 @@
 {
-     "defaultVpnQr": "https://i.imgur.com/mZBg0Pb.png",
-     "reportBanner": {
-         "imageUrl": "https://i.imgur.com/r9qiyWW.png",
-         "contactEmail": "radneyvous@gmail.com"
-     },
-     "donateBanner": {
-         "imageUrl": "https://i.imgur.com/702yPVb.png",
-         "link": "https://www.radneyvous.com/rnvdldonate"
-     },
-     "mobileBannerSlides": [
-         {
-             "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
-             "link": "https://go.nordvpn.net/SH8iN"
-         },
-         {
-             "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
-             "link": "https://affiliate.ipvanish.com/SH7Y"
-         },
-         {
-             "imageUrl": "https://i.imgur.com/GbVKBln.png",
-             "link": ""
-         }
-     ],
-     "bannerImages": [
-         "https://i.imgur.com/A081RST.jpg",
-         "https://i.imgur.com/L0MvDMs.jpg"
-     ],
-     "phoneVerBanner": {
-         "imageUrl": "https://i.imgur.com/702yPVb.png",
-         "link": ""
-     },
-     "updateInfo": {
-         "latestVersion": 1,
-         "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=fdexhwdp&dl=1",
-         "forceUpdate": true,
-         "updateMessage": "Critical update required. Please update to continue."
-     },
-     "repositoryCodes": [
-         {
-             "code": "1111",
-             "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/app_config.json",
-             "name": "Default Repository"
-         },
-         {
-             "code": "2222",
-             "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/rnvdl.json",
-             "name": "Special Repository"
-         }
-     ],
-     "fallbackDescription": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
-     "fallbackDescription2": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n\n🔍 Press the button or scan QR on your phone ➜",
-     "fallbackDescriptionMobile": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n\n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n👇 Or tap on the button below ",
-     "fallbackButtons": [
-         {
-             "label": "Get VPN",
-             "url": "go.nordvpn.net/SH8iN"
-         }
-     ]
- }
+    "defaultVpnQr": "https://i.imgur.com/mZBg0Pb.png",
+    "reportBanner": {
+        "imageUrl": "https://i.imgur.com/r9qiyWW.png",
+        "contactEmail": "radneyvous@gmail.com"
+    },
+    "donateBanner": {
+        "imageUrl": "https://i.imgur.com/702yPVb.png",
+        "link": "https://www.radneyvous.com/rnvdldonate"
+    },
+    "mobileBannerSlides": [
+        {
+            "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
+            "link": "https://go.nordvpn.net/SH8iN"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
+            "link": "https://affiliate.ipvanish.com/SH7Y"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/GbVKBln.png",
+            "link": ""
+        }
+    ],
+    "bannerImages": [
+        "https://i.imgur.com/A081RST.jpg",
+        "https://i.imgur.com/L0MvDMs.jpg"
+    ],
+    "phoneVerBanner": {
+        "imageUrl": "https://i.imgur.com/702yPVb.png",
+        "link": ""
+    },
+    "updateInfo": {
+        "latestVersion": 1,
+        "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=fdexhwdp&dl=1",
+        "forceUpdate": true,
+        "updateMessage": "Critical update required. Please update to continue."
+    },
+    "repositoryCodes": [
+        {
+            "code": "1111",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/app_config.json",
+            "name": "Default Repository"
+        },
+        {
+            "code": "2222",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/rnvdl.json",
+            "name": "Special Repository"
+        }
+    ],
+    "fallbackDescription": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
+    "fallbackDescription2": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n\n🔍 Press the button or scan QR on your phone ➜",
+    "fallbackDescriptionMobile": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n\n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn. \n👇 Or tap on the button below ",
+    "fallbackButtons": [
+        {
+            "label": "Get VPN",
+            "url": "https://go.nordvpn.net/SH8iN"
+        }
+    ]
+}
