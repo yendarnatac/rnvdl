@@ -4,7 +4,7 @@
             "name": "AnimeTV",
             "imageUrl": "https://i.imgur.com/sK1vwH9.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -30,7 +30,7 @@
             "name": "AM Player",
             "imageUrl": "https://i.imgur.com/y6fCDVX.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -56,7 +56,7 @@
             "name": "APK Time",
             "imageUrl": "https://i.imgur.com/Qkk7o9U.png",
             "description": "",
-            "category": "",
+            "category": "Tools",
             "downloadUrls": [
                 "",
                 "",
@@ -82,7 +82,7 @@
             "name": "B Player",
             "imageUrl": "https://i.imgur.com/mQjHSjn.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -108,7 +108,7 @@
             "name": "Bee TV",
             "imageUrl": "https://i.imgur.com/jbJ9dic.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -134,7 +134,7 @@
             "name": "Cinema HD",
             "imageUrl": "https://i.imgur.com/gLDeOPV.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -160,7 +160,7 @@
             "name": "Cinema HQ",
             "imageUrl": "https://i.imgur.com/m5ajoAS.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -186,7 +186,7 @@
             "name": "Cyberflix",
             "imageUrl": "https://i.imgur.com/glnehMy.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -212,7 +212,7 @@
             "name": "Drama Player",
             "imageUrl": "https://i.imgur.com/9pRRJFP.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -238,7 +238,7 @@
             "name": "FilmPLus",
             "imageUrl": "https://i.imgur.com/JiZY3E0.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -264,7 +264,7 @@
             "name": "Flix Vision",
             "imageUrl": "https://i.imgur.com/NyHjGJj.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -290,7 +290,7 @@
             "name": "Flixoid",
             "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -316,7 +316,7 @@
             "name": "HB Player",
             "imageUrl": "https://i.imgur.com/FaUWh8m.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -342,7 +342,7 @@
             "name": "HD Streamz",
             "imageUrl": "https://i.imgur.com/qghqX6o.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -368,7 +368,7 @@
             "name": "HDO Box",
             "imageUrl": "https://i.imgur.com/in81LMo.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -394,7 +394,7 @@
             "name": "Kodi",
             "imageUrl": "https://i.imgur.com/aweLjft.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -420,7 +420,7 @@
             "name": "Live Net TV",
             "imageUrl": "https://i.imgur.com/zGnKI4a.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -446,7 +446,7 @@
             "name": "Magellan",
             "imageUrl": "https://i.imgur.com/qsFMVkl.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -472,7 +472,7 @@
             "name": "Magis TV",
             "imageUrl": "https://i.imgur.com/32Amu6d.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -498,7 +498,7 @@
             "name": "MX Player",
             "imageUrl": "https://i.imgur.com/0g5Moqg.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -524,7 +524,7 @@
             "name": "NV Player",
             "imageUrl": "https://i.imgur.com/TP8rIYc.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -550,7 +550,7 @@
             "name": "Nova TV",
             "imageUrl": "https://i.imgur.com/8Ens4WL.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -576,7 +576,7 @@
             "name": "Oceam Streamz",
             "imageUrl": "https://i.imgur.com/gRiQRXx.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -602,7 +602,7 @@
             "name": "Old Movies",
             "imageUrl": "https://i.imgur.com/JMtHA03.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -628,7 +628,7 @@
             "name": "OnStream",
             "imageUrl": "https://i.imgur.com/KPKKzTk.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -654,7 +654,7 @@
             "name": "Plex",
             "imageUrl": "https://i.imgur.com/rtUgbkF.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -680,7 +680,7 @@
             "name": "Pluto TV",
             "imageUrl": "https://i.imgur.com/WKM5QR7.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -706,7 +706,7 @@
             "name": "Rapid Streamz",
             "imageUrl": "https://i.imgur.com/jS3WlL1.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -732,7 +732,7 @@
             "name": "Red Box TV",
             "imageUrl": "https://i.imgur.com/g65WLaP.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -758,7 +758,7 @@
             "name": "SStream",
             "imageUrl": "https://i.imgur.com/Nu81OEm.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -784,7 +784,7 @@
             "name": "Smart Tube",
             "imageUrl": "https://i.imgur.com/yKNetr7.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -810,7 +810,7 @@
             "name": "Sony Crackle",
             "imageUrl": "https://i.imgur.com/syK1dy0.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -836,7 +836,7 @@
             "name": "Sports Fire",
             "imageUrl": "https://i.imgur.com/fZPmnBw.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -862,7 +862,7 @@
             "name": "Stream Fire",
             "imageUrl": "https://i.imgur.com/7bD5xHy.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -888,7 +888,7 @@
             "name": "Swift Streamz",
             "imageUrl": "https://i.imgur.com/Czx0qy8.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -914,7 +914,7 @@
             "name": "TPlayer",
             "imageUrl": "https://i.imgur.com/sKPSko7.jpg",
             "description": "",
-            "category": "",
+            "category": "Multimedia Player",
             "downloadUrls": [
                 "",
                 "",
@@ -940,7 +940,7 @@
             "name": "Tea TV",
             "imageUrl": "https://i.imgur.com/rBicUpg.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -966,7 +966,7 @@
             "name": "Tivimate",
             "imageUrl": "https://i.imgur.com/8RNV9cq.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -992,7 +992,7 @@
             "name": "tubi",
             "imageUrl": "https://i.imgur.com/tn8WLhC.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -1018,7 +1018,7 @@
             "name": "UK Turks",
             "imageUrl": "https://i.imgur.com/KwQsF3u.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -1070,7 +1070,7 @@
             "name": "Viva TV",
             "imageUrl": "https://i.imgur.com/bT58GKi.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -1096,7 +1096,7 @@
             "name": "Xumo TV",
             "imageUrl": "https://i.imgur.com/C78qpbO.jpg",
             "description": "",
-            "category": "",
+            "category": "Streaming",
             "downloadUrls": [
                 "",
                 "",
@@ -1119,10 +1119,10 @@
             ]
         },
         {
-            "name": "",
-            "imageUrl": "",
+            "name": "NordVPN",
+            "imageUrl": "https://i.imgur.com/eVPhmSp.jpg",
             "description": "",
-            "category": "",
+            "category": "Activate VPN before Downloading",
             "downloadUrls": [
                 "",
                 "",
@@ -1145,10 +1145,10 @@
             ]
         },
         {
-            "name": "",
-            "imageUrl": "",
+            "name": "IPVanish",
+            "imageUrl": "https://i.imgur.com/nqYUTOg.jpg",
             "description": "",
-            "category": "",
+            "category": "Activate VPN before Downloading",
             "downloadUrls": [
                 "",
                 "",
