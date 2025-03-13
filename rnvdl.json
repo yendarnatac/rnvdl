@@ -30,7 +30,7 @@
             "name": "AM Player",
             "imageUrl": "https://i.imgur.com/y6fCDVX.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -82,7 +82,7 @@
             "name": "B Player",
             "imageUrl": "https://i.imgur.com/mQjHSjn.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -212,7 +212,7 @@
             "name": "Drama Player",
             "imageUrl": "https://i.imgur.com/9pRRJFP.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -316,7 +316,7 @@
             "name": "HB Player",
             "imageUrl": "https://i.imgur.com/FaUWh8m.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -394,7 +394,7 @@
             "name": "Kodi",
             "imageUrl": "https://i.imgur.com/aweLjft.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -449,7 +449,7 @@
             "category": "Streaming",
             "downloadUrls": [
                 "",
-                "",
+                "https://storage.evozi.com/apk/dl/20/10/26/com.abide.magellantv_133.apk",
                 ""
             ],
             "buttonUrls": [
@@ -498,10 +498,10 @@
             "name": "MX Player",
             "imageUrl": "https://i.imgur.com/0g5Moqg.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
-                "",
+                "https://storage.evozi.com/apk/dl/16/09/05/com.mxtech.videoplayer.ad_2001002561.apk",
                 ""
             ],
             "buttonUrls": [
@@ -524,7 +524,7 @@
             "name": "NV Player",
             "imageUrl": "https://i.imgur.com/TP8rIYc.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -654,10 +654,10 @@
             "name": "Plex",
             "imageUrl": "https://i.imgur.com/rtUgbkF.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
-                "",
+                "https://storage.evozi.com/apk/dl/16/09/05/com.plexapp.android_958413953.apk",
                 ""
             ],
             "buttonUrls": [
@@ -885,6 +885,32 @@
             ]
         },
         {
+            "name": "SO Player",
+            "imageUrl": "https://i.imgur.com/7bD5xHy.jpg",
+            "description": "",
+            "category": "Subscription",
+            "downloadUrls": [
+                "",
+                "",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                    "label": "Get NordVPN",
+                    "url": "go.nordvpn.net/SH8iN"
+                },
+                {
+                    "label": "Signup",
+                    "url": "https://www.radneyvous.com/rnvdl-soplay"
+                }
+            ],
+            "screenshots": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
             "name": "Swift Streamz",
             "imageUrl": "https://i.imgur.com/Czx0qy8.jpg",
             "description": "",
@@ -914,7 +940,7 @@
             "name": "TPlayer",
             "imageUrl": "https://i.imgur.com/sKPSko7.jpg",
             "description": "",
-            "category": "Multimedia Player",
+            "category": "Media Player",
             "downloadUrls": [
                 "",
                 "",
@@ -1093,6 +1119,32 @@
             ]
         },
         {
+            "name": "XPlay",
+            "imageUrl": "https://i.imgur.com/Q18vAdF.jpg",
+            "description": "",
+            "category": "Subscription",
+            "downloadUrls": [
+                "",
+                "",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                    "label": "Get VPN",
+                    "url": "go.nordvpn.net/SH8iN"
+                },
+                {
+                    "label": "Sign up",
+                    "url": "https://www.radneyvous.com/rnvdl-xplay"
+                }
+            ],
+            "screenshots": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
             "name": "Xumo TV",
             "imageUrl": "https://i.imgur.com/C78qpbO.jpg",
             "description": "",
@@ -1120,12 +1172,12 @@
         },
         {
             "name": "NordVPN",
-            "imageUrl": "https://i.imgur.com/eVPhmSp.jpg",
+            "imageUrl": "https://i.imgur.com/tyy6AoO.jpg",
             "description": "",
             "category": "Activate VPN before Downloading",
             "downloadUrls": [
                 "",
-                "",
+                "https://storage.evozi.com/apk/dl/16/09/24/com.nordvpn.android_837.apk",
                 ""
             ],
             "buttonUrls": [
@@ -1146,12 +1198,12 @@
         },
         {
             "name": "IPVanish",
-            "imageUrl": "https://i.imgur.com/nqYUTOg.jpg",
+            "imageUrl": "https://i.imgur.com/YGCCMv4.jpg",
             "description": "",
             "category": "Activate VPN before Downloading",
             "downloadUrls": [
                 "",
-                "",
+                "https://storage.evozi.com/apk/dl/16/09/05/com.ixolit.ipvanish_98607.apk",
                 ""
             ],
             "buttonUrls": [
