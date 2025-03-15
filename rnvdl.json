@@ -897,7 +897,7 @@
             "buttonUrls": [
                 {
                     "label": "Get NordVPN",
-                    "url": "go.nordvpn.net/SH8iN"
+                    "url": "https://go.nordvpn.net/SH8iN"
                 },
                 {
                     "label": "Signup",
@@ -1131,7 +1131,7 @@
             "buttonUrls": [
                 {
                     "label": "Get VPN",
-                    "url": "go.nordvpn.net/SH8iN"
+                    "url": "https://go.nordvpn.net/SH8iN"
                 },
                 {
                     "label": "Sign up",
