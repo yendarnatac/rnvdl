@@ -11,7 +11,7 @@
     "mobileBannerSlides": [
         {
             "imageUrl": "https://i.imgur.com/BiWoyp2.jpg",
-            "link": "https://go.nordvpn.net/SH8iN"
+            "link": "https://go.nordvpn.net/SH8xR"
         },
         {
             "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
@@ -31,7 +31,7 @@
         "link": ""
     },
     "updateInfo": {
-        "latestVersion": 1,
+        "latestVersion": 2,
         "updateUrl": "https://www.dropbox.com/scl/fi/uohj7wjwrofjfgnwuw7m0/rnvdl-v1.0.apk?rlkey=ix6bjfyzz8abkk2meesipxao1&st=fdexhwdp&dl=1",
         "forceUpdate": true,
         "updateMessage": "Critical update required. Please update to continue."
