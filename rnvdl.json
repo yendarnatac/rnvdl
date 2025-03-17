@@ -1252,7 +1252,7 @@
             "name": "Netflix",
             "imageUrl": "https://i.imgur.com/s1tRQWJ.jpg",
             "description": "",
-            "category": "",
+            "category": "Subscription",
             "downloadUrls": [
                 "https://storage.evozi.com/apk/dl/16/09/04/com.netflix.mediaclient_35512.apk",
                 "https://www.dropbox.com/scl/fi/xar8yc68e95cw0d4u66if/com.netflix.mediaclient_35512_apps.evozi.com.apk?rlkey=hbx0vqmx3lm10l62nmc13deb0&st=vkarmwz9&dl=1",
@@ -1278,7 +1278,7 @@
             "name": "Amazon Prime Video",
             "imageUrl": "https://i.imgur.com/saTu8MG.jpg",
             "description": "",
-            "category": "",
+            "category": "Subscription",
             "downloadUrls": [
                 "https://storage.evozi.com/apk/dl/18/06/04/com.amazon.avod.thirdpartyclient_303019247.apk",
                 "https://www.dropbox.com/scl/fi/qe817c1bo0qjoaqogwa0m/com.amazon.avod.thirdpartyclient_303019247_apps.evozi.com.apk?rlkey=u2pit8gizy6z69xs8gx2jrye0&st=ajknet3p&dl=1",
