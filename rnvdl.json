@@ -266,7 +266,7 @@
             "description": "",
             "category": "Streaming",
             "downloadUrls": [
-                "https://github.com/LamBassVN/AIO-APPS/raw/refs/heads/master/Flix-Vision_3.0.1r_Mod.apk",
+                "",
                 "https://www.dropbox.com/scl/fi/np3c8ugz2tsriniljodp4/Flix-Vision_3.0.1r_Mod.apk?rlkey=cpuedumr6bhxc1e2e6u8mw2a0&st=p70wzw79&dl=1",
                 ""
             ],
@@ -344,7 +344,7 @@
             "description": "",
             "category": "Streaming",
             "downloadUrls": [
-                "https://www.dropbox.com/scl/fi/xx3bh127fe3u9rxhgl8u3/hdo-2.0.23.apk?rlkey=1vasi8okkhskrcbf2tvcklwad&st=w9nprcsf&dl=1",
+                "",
                 "",
                 ""
             ],
@@ -372,7 +372,7 @@
             "downloadUrls": [
                 "https://github.com/LamBassVN/AIO-APPS/raw/refs/heads/master/HDO-Box_1.1.6_AndroidTV_Mod.apk",
                 "https://www.dropbox.com/scl/fi/xx3bh127fe3u9rxhgl8u3/hdo-2.0.23.apk?rlkey=1vasi8okkhskrcbf2tvcklwad&st=swv8jqps&dl=1",
-                ""
+                "https://www.dropbox.com/scl/fi/xx3bh127fe3u9rxhgl8u3/hdo-2.0.23.apk?rlkey=1vasi8okkhskrcbf2tvcklwad&st=w9nprcsf&dl=1"
             ],
             "buttonUrls": [
                 {
@@ -422,8 +422,8 @@
             "description": "",
             "category": "Streaming",
             "downloadUrls": [
-                "https://aftv.livenettv.so/?1.7.2",
                 "https://www.dropbox.com/scl/fi/alqulsop7p889atv7nh2x/LiveNetTV_Amazon_1.7.4_Update.apk?rlkey=exzc7s4qa6f5vox1swvjxxeob&st=nni7w57t&dl=1",
+                "https://aftv.livenettv.so/?1.7.2",
                 ""
             ],
             "buttonUrls": [
