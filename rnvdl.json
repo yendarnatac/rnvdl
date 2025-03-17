@@ -125,9 +125,9 @@
                 }
             ],
             "screenshots": [
-                "",
-                "",
-                ""
+                "https://i.imgur.com/9XDeAsU.png",
+                "https://i.imgur.com/Rz4FmNn.png",
+                "https://i.imgur.com/3nRJnMH.png"
             ]
         },
         {
@@ -151,9 +151,9 @@
                 }
             ],
             "screenshots": [
-                "",
-                "",
-                ""
+                "https://i.imgur.com/qHJm0Yr.png",
+                "https://i.imgur.com/9vmT5dx.png",
+                "https://i.imgur.com/NPz4BsU.png"
             ]
         },
         {
@@ -262,7 +262,7 @@
         },
         {
             "name": "Flix Vision",
-            "imageUrl": "https://i.imgur.com/NyHjGJj.jpg",
+            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
             "category": "Streaming",
             "downloadUrls": [
@@ -288,7 +288,7 @@
         },
         {
             "name": "Flixoid",
-            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
+            "imageUrl": "https://i.imgur.com/NyHjGJj.jpg",
             "description": "",
             "category": "Streaming",
             "downloadUrls": [
