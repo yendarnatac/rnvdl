@@ -1,13 +1,39 @@
 {
     "apps": [
         {
-            "name": "Flix Vision",
+            "name": "Version 3.1.1r",
             "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
-            "category": "Streaming",
+            "category": "Flix Vision",
             "downloadUrls": [
                 "https://github.com/fvision8/fvreleases/releases/download/v3.1.1r/FlixVision_v3.1.1r.apk",
                 "https://www.dropbox.com/scl/fi/np3c8ugz2tsriniljodp4/Flix-Vision_3.0.1r_Mod.apk?rlkey=cpuedumr6bhxc1e2e6u8mw2a0&st=p70wzw79&dl=1",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                    "label": "",
+                    "url": ""
+                },
+                {
+                    "label": "",
+                    "url": ""
+                }
+            ],
+            "screenshots": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "Version 3.1.0",
+            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
+            "description": "",
+            "category": "Flix Vision",
+            "downloadUrls": [
+                "https://www.dropbox.com/scl/fi/np3c8ugz2tsriniljodp4/Flix-Vision_3.0.1r_Mod.apk?rlkey=cpuedumr6bhxc1e2e6u8mw2a0&st=p70wzw79&dl=1",
+                "",
                 ""
             ],
             "buttonUrls": [
