@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "name": "Kodi",
+            "name": "Flix",
             "imageUrl": "https://i.imgur.com/u0ltUPf.jpg",
             "description": "Media Library app",
             "category": "Category 1",
