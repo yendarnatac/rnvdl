@@ -46,6 +46,11 @@
             "code": "2222",
             "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/rnvdl.json",
             "name": "Special Repository"
+        },
+        {
+            "code": "11",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/flixv.json",
+            "name": "Flix Vision"
         }
     ],
     "fallbackDescription": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
