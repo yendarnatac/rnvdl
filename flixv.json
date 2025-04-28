@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "name": "Version 3.1.1r",
+            "name": "Flix Vision (v3.1.1r)",
             "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
             "category": "Flix Vision",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "name": "Version 3.1.0",
+            "name": "Flix Vision (v3.1.0r)",
             "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
             "category": "Flix Vision",
