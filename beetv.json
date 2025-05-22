@@ -1,0 +1,112 @@
+{
+    "apps": [
+        {
+            "name": "BeeTV v4.2.3",
+            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
+            "description": "",
+            "category": "BeeTV",
+            "downloadUrls": [
+                "https://beetvapk.org/beetv4.2.3.apk",
+                "https://www.dropbox.com/scl/fi/retm556vjxulwsmmnzzpu/beetv4.2.3.apk?rlkey=piv346bk97wzbzj1ha04bkd44&st=ma6wasck&dl=1",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                    "label": "NordVPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
+                },
+                {
+                    "label": "IPVanish",
+                    "url": "https://affiliate.ipvanish.com/SH7Y"
+                }
+            ],
+            "screenshots": [
+                "https://i.imgur.com/RqT6d79.jpg",
+                "https://i.imgur.com/jb8noJP.jpg",
+                "https://i.imgur.com/OGV9rHW.jpg",
+                "https://i.imgur.com/5ews2Dm.jpg",
+                "https://i.imgur.com/1EF1KNd.jpg"
+            ]
+        },
+        {
+            "name": "BeeTV v4.2.2",
+            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
+            "description": "",
+            "category": "Flix Vision",
+            "downloadUrls": [
+                "https://bee-tv.app/wp-content/uploads/2025/05/4.2.2.apk",
+                "https://www.dropbox.com/scl/fi/yi8t6mcacp2w3pxuxgq8t/beetv4.2.2.apk?rlkey=pf0kxbcs6dockg65x0rtum3k4&st=wa2lw1p7&dl=1",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                   "label": "NordVPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
+                },
+                {
+                    "label": "IPVanish VPN",
+                    "url": "https://affiliate.ipvanish.com/SH7Y"
+                }
+            ],
+            "screenshots": [
+                "https://i.imgur.com/RqT6d79.jpg",
+                "https://i.imgur.com/jb8noJP.jpg",
+                "https://i.imgur.com/OGV9rHW.jpg",
+                "https://i.imgur.com/5ews2Dm.jpg",
+                "https://i.imgur.com/1EF1KNd.jpg"
+            ]
+        },
+        {
+            "name": "NordVPN",
+            "imageUrl": "https://i.imgur.com/tyy6AoO.jpg",
+            "description": "",
+            "category": "Activate VPN before Downloading",
+            "downloadUrls": [
+                "https://storage.evozi.com/apk/dl/16/09/24/com.nordvpn.android_837.apk",
+                "https://www.dropbox.com/scl/fi/0mnjzytybm2cio1cy1s98/com.nordvpn.android_837_apps.evozi.com.apk?rlkey=0tb51s1nnt92vvou6izor4u0b&st=xh4zrkox&dl=1",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                     "label": "NordVPN",
+                    "url": "https://go.nordvpn.net/SH8iN"
+                },
+                {
+                    "label": "",
+                    "url": ""
+                }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/ThY4umFGp6b8De3dHSRCr2E3g4KgNCdBMfD8FGULSN4ey38U2oGdJn3p0kxUw0TFgNI=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/o-gC2ft_GyOm6QNATlyQBRknpvw0YQcFXcMgTuOEvD3L8Nj8Vn8veIGmTftB9pcnjAw=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/sH5ARTTLlGJc0WQjxp3m5X4fCszrrp28XFv09VzMgEHVe4gdHXsuQ-Q1wE2aLOV0zl8=w1052-h592-rw"
+            ]
+        },
+        {
+            "name": "IPVanish",
+            "imageUrl": "https://i.imgur.com/YGCCMv4.jpg",
+            "description": "",
+            "category": "Activate VPN before Downloading",
+            "downloadUrls": [
+                "https://storage.evozi.com/apk/dl/16/09/05/com.ixolit.ipvanish_98607.apk",
+                "https://www.dropbox.com/scl/fi/ypbs1dvb7t3jtpf8s9dqb/com.ixolit.ipvanish_98607_apps.evozi.com.apk?rlkey=m3bd34p2uu699ty7vrtripaar&st=mimya6ab&dl=1",
+                ""
+            ],
+            "buttonUrls": [
+                {
+                    "label": "IPVanish VPN",
+                    "url": "https://affiliate.ipvanish.com/SH7Y"
+                },
+                {
+                    "label": "",
+                    "url": ""
+                }
+            ],
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/2w4h5JUFJELDPnlyWaUULEKtKOEy57HAzNNdU3KqD7AnJeoR2uOZwxKEo1uukDk-Mw=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/BdVeV2boMHFjaUoywGpMxBbk0WomuAnUCFJCbIxh7X7ZJXqL2VsPAK7bXXCjtSqfUg=w1052-h592-rw",
+                "https://play-lh.googleusercontent.com/SgjHTv2FI118aZwCmvSEN3h6CZLULgbxz5TWiZtnDETfUJ3gRTcaymmgvxCN5-jKt7s=w1052-h592-rw"
+            ]
+        }
+    ]
+}
