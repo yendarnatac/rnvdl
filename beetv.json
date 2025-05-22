@@ -32,7 +32,7 @@
             "name": "BeeTV v4.2.2",
             "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
             "description": "",
-            "category": "Flix Vision",
+            "category": "BeeTV",
             "downloadUrls": [
                 "https://bee-tv.app/wp-content/uploads/2025/05/4.2.2.apk",
                 "https://www.dropbox.com/scl/fi/yi8t6mcacp2w3pxuxgq8t/beetv4.2.2.apk?rlkey=pf0kxbcs6dockg65x0rtum3k4&st=wa2lw1p7&dl=1",
@@ -40,7 +40,7 @@
             ],
             "buttonUrls": [
                 {
-                   "label": "NordVPN",
+                    "label": "NordVPN",
                     "url": "https://go.nordvpn.net/SH8iN"
                 },
                 {
@@ -68,7 +68,7 @@
             ],
             "buttonUrls": [
                 {
-                     "label": "NordVPN",
+                    "label": "NordVPN",
                     "url": "https://go.nordvpn.net/SH8iN"
                 },
                 {
