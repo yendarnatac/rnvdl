@@ -2,7 +2,7 @@
     "apps": [
         {
             "name": "BeeTV v4.2.3",
-            "imageUrl": "https://i.imgur.com/biHxnbB.jpg",
+            "imageUrl": "https://i.imgur.com/jbJ9dic.jpg",
             "description": "",
             "category": "BeeTV",
             "downloadUrls": [
@@ -17,10 +17,10 @@
                 }
             ],
             "screenshots": [
-                "https://i.imgur.com/vAb2UOC.jpg",
-                "https://i.imgur.com/yKqE5Aq.jpg",
-                "https://i.imgur.com/AzgUOEZ.jpg",
-                "https://i.imgur.com/NbGLNom.jpg"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
