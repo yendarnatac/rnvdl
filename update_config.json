@@ -52,10 +52,15 @@
             "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/flixv.json",
             "name": "Flix Vision"
         },
-		{
+        {
             "code": "22",
             "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/cyberf.json",
             "name": "Cyber Flix"
+        },
+        {
+            "code": "33",
+            "repositoryUrl": "https://raw.githubusercontent.com/yendarnatac/rnvdl/refs/heads/main/beetv.json",
+            "name": "BeeTV"
         }
     ],
     "fallbackDescription": "🛑 Always use VPN when downloading and using these apps especially when streaming. \n🔑 Get up to 80% off using this vpn link: \n🔗 https://bit.ly/rnvdlvpn.",
